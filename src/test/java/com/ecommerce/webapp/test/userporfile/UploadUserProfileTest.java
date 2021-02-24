@@ -1,4 +1,4 @@
-package com.ecommerce.webapp.test.phase5_selenium_autoit_02_24_2021;
+package com.ecommerce.webapp.test.userporfile;
 
 import static org.junit.jupiter.api.Assertions.*;
 
